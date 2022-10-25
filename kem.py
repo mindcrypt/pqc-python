@@ -1,5 +1,6 @@
 #######################################################################
 # KEM example. For research purposes only. Use at your own risk
+# Dr. Alfonso Muñoz @mindcrypt Oct 2022
 #######################################################################
 
 from pprint import pprint
